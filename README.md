@@ -1,4 +1,4 @@
-##Knowledge Base - Android App
+## Knowledge Base - Android App
 
 Allows users to create companies in which the administrators enroll problems/solutions and authorized employees can search, view and possible edit them. 
 
