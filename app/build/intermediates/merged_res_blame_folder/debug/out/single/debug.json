@@ -1,0 +1,618 @@
+[
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_users.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_users.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_button_black.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/button_black.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_new_category.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/new_category.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_unselected.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/unselected.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_login.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_login.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_title_english_1.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/title_english_1.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_main_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_main_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_error2.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/error2.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_import_solutions.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/import_solutions.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_global.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/global.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_slim_spinner_pressed.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/slim_spinner_pressed.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_white_border_semi_transparent_box.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/white_border_semi_transparent_box.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_header_with_back_button_and_title.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/header_with_back_button_and_title.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_solution_lookup_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_solution_lookup_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_solutions_detail_activity.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_solutions_detail_activity.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_layout_bottom.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/layout_bottom.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_error2.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/error2.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_layout_top.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/layout_top.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_solution_lookup.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_solution_lookup.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_my_info.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/my_info.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_error2.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/error2.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_categories.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_categories.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_drawer_shadow.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_categories.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_categories.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_button_black_tap.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/button_black_tap.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_main_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_main_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_categories.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/categories.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_slim_spinner_normal.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/slim_spinner_normal.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_categories_detail_activity.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_categories_detail_activity.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_title_spanish_1.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/title_spanish_1.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_error2.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/error2.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_users_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_users_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_button_black_tap.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/button_black_tap.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_users.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/users.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_left.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/left.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_button_black.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/button_black.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_add.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/add.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_unapproved.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/unapproved.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_ic_drawer.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/ic_drawer.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_no.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/no.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_categories_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_categories_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_iphone_edit_text.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/iphone_edit_text.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_ic_launcher.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/ic_launcher.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_alert_import_options.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/alert_import_options.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_main.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_main.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_layout_top.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/layout_top.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_alert_import_options.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/alert_import_options.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_button_black.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/button_black.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_check.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/check.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_slim_spinner_pressed.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/slim_spinner_pressed.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_approved.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/approved.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_layout_top.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/layout_top.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_drawer_shadow.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_solutions_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_solutions_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_title_french_1.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/title_french_1.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_generic_alert.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/generic_alert.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_slim_spinner_normal.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/slim_spinner_normal.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_drawer_shadow.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_approval_status_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/approval_status_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_http_client.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/http_client.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_blue_shield.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/blue_shield.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_header_with_back_button_and_title.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/header_with_back_button_and_title.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_layout_bottom.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/layout_bottom.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_ic_drawer.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/xml_data_extraction_rules.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_lookup.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/lookup.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_tick4.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/tick4.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_solutions_detail_activity.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_solutions_detail_activity.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_yes.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/yes.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_drawer_shadow.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/drawer_shadow.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_active_user.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/active_user.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_no.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/no.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_white_border_20_percent_transparent_box.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/white_border_20_percent_transparent_box.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_check.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/check.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_edit.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/edit.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_export_solutions.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/export_solutions.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_alert_lookup_solution_detail.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/alert_lookup_solution_detail.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_create_company.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/create_company.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_check.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/check.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_button_black.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/button_black.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_slim_spinner_normal.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/slim_spinner_normal.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_categories_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/categories_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_button_black_tap.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/button_black_tap.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_categories_detail_activity.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_categories_detail_activity.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_check.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/check.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_no.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/no.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_layout_bottom.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/layout_bottom.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_selected.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/selected.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_layout_bottom.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/layout_bottom.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_categories_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/categories_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_error.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/error.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_ic_drawer.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/ic_drawer.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_alert_lookup_solution_detail.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/alert_lookup_solution_detail.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_error.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/error.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_white_border_transparent_box.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/white_border_transparent_box.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_warning.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/warning.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_iphone_edit_text.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/iphone_edit_text.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_login.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_slim_spinner_pressed.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/slim_spinner_pressed.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_yes.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/yes.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_warning.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/warning.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_no.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/no.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_tick4.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/tick4.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_tick4.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/tick4.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_title_portuguese_1.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/title_portuguese_1.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_iphone_edit_text.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/iphone_edit_text.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_yes.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/yes.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_iphone_edit_text.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/iphone_edit_text.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_login.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/login.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_users.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_users.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_iphone_edit_text.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/iphone_edit_text.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_tick4.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/tick4.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_error2.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/error2.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_check.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/check.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_search.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/search.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_categories_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_categories_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_button_black.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/button_black.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_tick4.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/tick4.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_yes.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/yes.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_approval_status_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/approval_status_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_background1.jpg.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/background1.jpg"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_warning.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/warning.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_slim_spinner_pressed.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/slim_spinner_pressed.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_warning.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/warning.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_array_list_background.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/array_list_background.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_button_black_tap.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/button_black_tap.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_layout_bottom.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/layout_bottom.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-hdpi_no.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-hdpi/no.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_solution_lookup_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_solution_lookup_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_disabled_user.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/disabled_user.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_activity_manage_solutions_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/activity_manage_solutions_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_main.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_error.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/error.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_new_user.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/new_user.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_error.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/error.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_warning.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/warning.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_logo1.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/logo1.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_lookup_activity_detail.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/lookup_activity_detail.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_button_black_tap.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/button_black_tap.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_slim_spinner_normal.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/slim_spinner_normal.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout-land_my_info.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout-land/my_info.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/menu_main.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/menu/main.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_yes.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/yes.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-mdpi_layout_top.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-mdpi/layout_top.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_user_info.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/user_info.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xhdpi_error.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xhdpi/error.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable_black_button.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable/black_button.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_manage_users_list_adapter.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_manage_users_list_adapter.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_slim_spinner_normal.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/slim_spinner_normal.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_layout_top.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/layout_top.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-xxhdpi_ic_drawer.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-xxhdpi/ic_drawer.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/drawable-ldpi_slim_spinner_pressed.9.png.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/drawable-ldpi/slim_spinner_pressed.9.png"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_generic_alert.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/generic_alert.xml"
+    },
+    {
+        "merged": "com.prpinfo.bancodesolucoes.app-merged_res-26:/layout_activity_solution_lookup.xml.flat",
+        "source": "com.prpinfo.bancodesolucoes.app-main-28:/layout/activity_solution_lookup.xml"
+    }
+]

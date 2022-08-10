@@ -1,0 +1,73 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="horizontal"
+	android:weightSum="2"
+	android:background="@drawable/background1"
+	android:padding="@dimen/layout_container_padding" >
+
+	<LinearLayout
+		style="@style/linear_layout_vertical_1"
+		android:layout_width="0dp"
+		android:layout_weight="1"
+		android:layout_height="match_parent">
+
+		<include layout="@layout/header_with_back_button_and_title"/>
+
+		<FrameLayout
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1" >
+
+			<LinearLayout
+				android:layout_width="match_parent"
+				android:layout_height="wrap_content"
+				android:layout_gravity="center_vertical"
+				android:orientation="vertical"
+				android:paddingTop="5dp"
+				android:paddingBottom="5dp">
+
+				<LinearLayout
+					style="@style/linear_layout_horizontal_1" >
+
+					<TextView
+						android:id="@+id/firstNameTextview"
+						style="@style/textview_model_1"
+						android:layout_width="110dp"
+						android:gravity="end"
+						android:text=" By Category:" />
+
+					<EditText
+						android:id="@+id/categoryEdittext"
+						style="@style/edittext_model_2" />
+
+				</LinearLayout>
+
+			</LinearLayout>
+
+		</FrameLayout>
+
+	</LinearLayout>
+
+	<LinearLayout
+		style="@style/linear_layout_vertical_1"
+		android:layout_width="0dp"
+		android:layout_weight="1"
+		android:paddingStart="10dp">
+
+		<Button
+			android:id="@+id/searchButton"
+			android:layout_width="match_parent"
+			android:layout_height="35dp"
+			android:layout_gravity="center|center"
+			android:text=" Search "
+			style="@style/button_black" />
+
+		<ListView
+			android:id="@+id/mainList"
+			android:layout_width="match_parent"
+			android:layout_height="0dp"
+			android:layout_weight="1"/>
+
+	</LinearLayout>
+</LinearLayout>

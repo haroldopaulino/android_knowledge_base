@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: de.gerdi-project:GSON:6.0.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.gerdi-project/GSON/6.0.6/93112353a058cf3a82721a568f5ad54a800ecd68/GSON-6.0.6.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.gerdi-project/GSON/6.0.6/5512902d7baf3d9f74b8db84b805274fb5d1f264/GSON-6.0.6-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/de.gerdi-project/GSON/6.0.6/c0f1f9b257da650b7b1e32f94ee1c1149ef730ed/GSON-6.0.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

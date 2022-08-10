@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Knowledge Base</string>
+    <string name="main_options">Opções</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_http_client">HttpClientActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_lookup">Processando Busca ...</string>
+    <string name="title_activity_lookup_activity_detail">LookupActivityDetail</string>
+    <string name="title_activity_create_new">Criando solução, processando ...</string>
+    <string name="title_activity_manage_solutions">Gerenciar Soluções</string>
+    <string name="title_activity_manage_solutions_detail">Gerenciar Soluções - Registro</string>
+    <string name="title_activity_manage_users_detail">Gerenciar Usuários</string>
+    <string name="image_description_manage_solutions_list_adapter">Item</string>
+    <string name="image_description_manage_users_list_adapter">Item</string>
+
+    <string-array name="solution_statuses">
+        <item>Approved</item>
+        <item>Desapproved</item>
+    </string-array>
+    <string-array name="solution_statuses_with_blank">
+        <item></item>
+        <item>Approved</item>
+        <item>Desapproved</item>
+    </string-array>
+    <string-array name="access_types">
+        <item>Administrator</item>
+        <item>Disabled</item>
+        <item>Employee</item>
+    </string-array>
+    <string-array name="access_types_with_blank">
+        <item></item>
+        <item>Administrator</item>
+        <item>Disabled</item>
+        <item>Employee</item>
+    </string-array>
+    <string-array name="languages">
+        <item>English</item>
+        <item>Español</item>
+        <item>Français</item>
+        <item>Português</item>
+    </string-array>
+
+    <string name="title_activity_create_company">CreateCompanyActivity</string>
+    <string name="title_activity_create_company_post">CreateCompanyPostActivity</string>
+
+    <string name="back">Back</string>
+    <string name="error">Error</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+
+</resources>

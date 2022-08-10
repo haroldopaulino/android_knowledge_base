@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:weightSum="1"
+	android:background="@drawable/background1"
+	android:padding="@dimen/layout_container_padding">
+
+	<include layout="@layout/header_with_back_button_and_title"/>
+
+	<LinearLayout
+		style="@style/linear_layout_horizontal_1"
+		android:layout_weight="1">
+
+		<LinearLayout
+			style="@style/linear_layout_vertical_1"
+			android:layout_width="0dp"
+			android:layout_weight="1"
+			android:layout_height="match_parent">
+
+			<ScrollView
+				android:layout_width="match_parent"
+				android:layout_height="match_parent" >
+
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="vertical"
+					android:paddingTop="15dp" >
+
+
+					<LinearLayout
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:orientation="horizontal"
+						android:weightSum="1" >
+
+						<TextView
+							android:id="@+id/categoryTextview"
+							android:text="Category: "
+							style="@style/textview_model_1"/>
+
+						<Spinner
+							android:id="@+id/categorySpinner"
+							android:gravity="top"
+							android:layout_width="0dp"
+							android:layout_weight="1"
+							android:layout_gravity="start|center_vertical"
+							style="@style/spinner_model_1"
+							android:focusable="true"
+							android:entries="@array/solution_statuses" />
+					</LinearLayout>
+
+					<LinearLayout
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:orientation="horizontal"
+						android:weightSum="1" >
+
+						<TextView
+							android:id="@+id/problemTextview"
+							android:text=" Problem:"
+							android:layout_marginTop="10dp"
+							android:layout_gravity="top|end"
+							style="@style/textview_model_1" />
+
+						<EditText
+							android:id="@+id/problemEdittext"
+							android:gravity="top"
+							android:layout_height="50dp"
+							android:layout_width="0dp"
+							android:layout_weight="1"
+							android:layout_gravity="left|center_vertical"
+							style="@style/edittext_model_2"
+							android:ems="10"
+							android:inputType="textMultiLine" >
+						</EditText>
+					</LinearLayout>
+
+
+					<LinearLayout
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:orientation="horizontal"
+						android:weightSum="1" >
+
+						<TextView
+							android:id="@+id/solutionTextview"
+							android:text="Solution:"
+							android:layout_gravity="top|end"
+							android:layout_marginTop="10dp"
+							style="@style/textview_model_1" />
+
+						<EditText
+							android:id="@+id/solutionEdittext"
+							android:gravity="top"
+							android:layout_height="100dp"
+							android:layout_width="0dp"
+							android:layout_weight="1"
+							android:layout_gravity="start|center_vertical"
+							style="@style/edittext_model_2"
+							android:ems="10"
+							android:inputType="textMultiLine" />
+					</LinearLayout>
+
+					<LinearLayout
+						android:id="@+id/approvedContainer"
+						android:layout_width="match_parent"
+						android:layout_height="wrap_content"
+						android:orientation="horizontal"
+						android:weightSum="1" >
+
+						<TextView
+							android:id="@+id/approvedTextview"
+							android:text="Approved: "
+							style="@style/textview_model_1" />
+
+						<Spinner
+							android:id="@+id/approvedSpinner"
+							style="@style/spinner_model_1"
+							android:focusable="true"
+							android:entries="@array/solution_statuses" />
+					</LinearLayout>
+
+				</LinearLayout>
+
+			</ScrollView>
+
+		</LinearLayout>
+
+		<FrameLayout
+			android:layout_width="wrap_content"
+			android:layout_height="match_parent"
+			android:padding="10dp" >
+
+			<androidx.constraintlayout.widget.ConstraintLayout
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:orientation="horizontal">
+
+				<Button
+					android:id="@+id/updateButton"
+					style="@style/button_black"
+					android:layout_gravity="center|center"
+					android:text="Update"
+					app:layout_constraintBottom_toBottomOf="parent"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintHorizontal_bias="0.5"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toBottomOf="@+id/deleteButton" />
+
+				<Button
+					android:id="@+id/deleteButton"
+					style="@style/button_black"
+					android:layout_gravity="center|center"
+					android:text="Delete"
+					app:layout_constraintBottom_toTopOf="@+id/updateButton"
+					app:layout_constraintEnd_toEndOf="parent"
+					app:layout_constraintHorizontal_bias="0.5"
+					app:layout_constraintStart_toStartOf="parent"
+					app:layout_constraintTop_toTopOf="parent" />
+
+			</androidx.constraintlayout.widget.ConstraintLayout>
+
+		</FrameLayout>
+
+	</LinearLayout>
+
+</LinearLayout>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_activity_title_french">Base De Connaissances</string>
+    <string name="login_company_hint_french">Entreprise</string>
+    <string name="login_password_hint_french">Mot De Passe</string>
+    <string name="company_french">L\'entreprise</string>
+    <string name="password_french">Mot De Passe</string>
+    <string name="remember_me_french">souviens-toi de moi</string>
+    <string name="create_company_missing_information_message_french">La société , nom, prénom , e-mail et mot de passe doivent être saisis.</string>
+    <string name="login_missing_information_message_french">Le nom de la société , e-mail et mot de passe doit être entré.</string>
+    <string name="login_invalid_message_french">Identification Non Valides</string>
+    <string name="disabled_user_message_french">Votre utilisateur est désactivé!\nVeuillez contacter l\'administrateur de votre entreprise.</string>
+    <string name="error_french">Erreur</string>
+
+    <string name="main_menu_search_solution_french">Rechercher Solution</string>
+    <string name="main_menu_new_solution_french">Nouvelle Solution</string>
+    <string name="main_menu_manage_solutions_french">Gérer Des Solutions</string>
+    <string name="main_menu_new_user_french">Nouvel Utilisateur</string>
+    <string name="main_menu_manage_users_french">Gérer Les Utilisateurs</string>
+    <string name="main_menu_new_category_french">Nouvelle Catégorie</string>
+    <string name="main_menu_manage_categories_french">Gérer les Catégories</string>
+    <string name="main_menu_my_info_french">Mes Informations</string>
+    <string name="main_menu_import_solutions_french">Importer Solutions</string>
+    <string name="main_menu_export_solutions_french">Exporter Solutions</string>
+
+    <string name="register_french">S\'inscrire</string>
+    <string name="registration_french">Inscription</string>
+    <string name="registration_confirmation_french">Procéder à l\'inscription?</string>
+
+    <string name="new_company_french">Nouvelle Entreprise</string>
+    <string name="new_company_confirmation_french">Créer une nouvelle entreprise?</string>
+
+    <string name="create_user_french">Créer un utilisateur</string>
+    <string name="creating_company_french">Création d\' entreprise</string>
+    <string name="search_solution_french">Rechercher Solution</string>
+    <string name="create_new_solution_french">Nouvelle Solution</string>
+    <string name="manage_solutions_french">Gérer Des Solutions</string>
+    <string name="manage_users_french">Gérer Les Utilisateurs</string>
+    <string name="manage_user_record_french">Gérer Enregistrement de l\'utilisateur</string>
+    <string name="manage_solution_record_french">Gérer les données Solution</string>
+    <string name="creating_new_solution_french">Création d\' une nouvelle solution</string>
+    <string name="no_connection_available_french">Pas De Connexion</string>
+    <string name="invalid_internet_connection_french">Connexion Internet invalide</string>
+    <string name="error_connecting_to_server_french">Erreur de connexion au serveur</string>
+    <string name="error_receiving_data_from_server_french">Erreur de réception de données à partir du serveur</string>
+    <string name="communication_error_french">Erreur de communication</string>
+    <string name="error_communicating_with_server_french">Erreur de communication avec le serveur</string>
+    <string name="processing_french">Traitement</string>
+    <string name="logging_in_french">Se connecter ...</string>
+    <string name="email_french">Email</string>
+    <string name="category_french">Catégorie</string>
+    <string name="problem_french">Sujet</string>
+    <string name="solution_french">Solution</string>
+    <string name="status_french">Statut</string>
+    <string name="search_french">Recherche</string>
+    <string name="access_type_french">Type d\' Accès</string>
+    <string name="name_french">Nom</string>
+    <string name="firstname_french">Prénom</string>
+    <string name="lastname_french">Nom</string>
+    <string name="address_french">Adresse</string>
+    <string name="city_french">Ville</string>
+    <string name="state_french">État</string>
+    <string name="zip_french">Code postal</string>
+    <string name="phone1_french">Téléphone 1</string>
+    <string name="phone2_french">Téléphone 2</string>
+    <string name="new_user_french">Nouvel Utilisateur</string>
+    <string name="processing_search_french">Recherche de Traitement</string>
+    <string name="matches_found_french">Correspondances Trouvées</string>
+    <string name="nothing_found_french">Rien Trouvé</string>
+    <string name="update_french">Enregistrer les modifications</string>
+    <string name="delete_french">Effacer</string>
+    <string name="confirm_deletion_french">Confirmez la suppression</string>
+    <string name="proceed_with_deletion_french">Procéder à la suppression?</string>
+    <string name="yes_french">Oui</string>
+    <string name="no_french">Aucun</string>
+    <string name="close_french">Près</string>
+    <string name="administrator_french">Administrateur</string>
+    <string name="transaction_failed_french">Transaction a échoué</string>
+    <string name="transaction_success_french">Succès de l\'opération</string>
+    <string name="solution_cannot_be_blank_french">La solution ne peut être vide!</string>
+    <string name="title_cannot_be_blank_french">Le titre ne peut pas être vide!</string>
+    <string-array name="solution_statuses_french">
+		<item>Approuvé</item>
+		<item>Refusé</item>
+	</string-array>
+    <string-array name="solution_statuses_with_blank_french">
+		<item> </item>
+		<item>Approuvé</item>
+		<item>Refusé</item>
+	</string-array>
+	<string-array name="access_types_french">
+        <item>Désactivé</item>
+        <item>Administrateur</item>
+		<item>Employé</item>
+	</string-array>
+	<string-array name="access_types_with_blank_french">
+		<item> </item>
+        <item>Désactivé</item>
+        <item>Administrateur</item>
+		<item>Employé</item>
+	</string-array>
+</resources>

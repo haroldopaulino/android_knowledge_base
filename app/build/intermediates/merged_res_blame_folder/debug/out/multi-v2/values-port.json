@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.prpinfo.bancodesolucoes.app-mergeDebugResources-24:/values-port/values-port.xml",
+            "map": [
+                {
+                    "source": "/Users/harold/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/res/values-port/values-port.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                }
+            ]
+        }
+    ]
+}

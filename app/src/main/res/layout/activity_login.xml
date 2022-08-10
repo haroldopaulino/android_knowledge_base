@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="5dp"
+    android:paddingEnd="10dp"
+    android:paddingStart="10dp"
+    android:paddingBottom="20dp"
+    android:background="@drawable/background1"
+    android:orientation="vertical" >
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:src="@drawable/logo1"
+        android:contentDescription="Logo1"
+        android:layout_marginBottom="10dp" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:adjustViewBounds="true"
+        android:src="@drawable/title_english_1"
+        android:layout_marginStart="50dp"
+        android:layout_marginEnd="50dp"
+        android:layout_marginBottom="20dp"
+        android:contentDescription="Title"
+        android:id="@+id/imageTitle"/>
+
+    <TextView
+        android:id="@+id/emailTextview"
+        android:text="Email"
+        style="@style/textview_model_4" />
+
+    <EditText
+        android:id="@+id/emailEdittext"
+        android:hint="@string/prompt_email"
+        android:inputType="textEmailAddress"
+        style="@style/edittext_model_3"
+        android:nextFocusDown="@+id/passwordEdittext" />
+
+    <LinearLayout
+        style="@style/linear_layout_horizontal_1">
+
+        <LinearLayout
+            style="@style/linear_layout_vertical_1"
+            android:layout_width="0dp"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:id="@+id/passwordTextview"
+                android:text="Password"
+                style="@style/textview_model_4" />
+
+            <EditText
+                android:id="@+id/passwordEdittext"
+                android:hint="@string/prompt_password"
+                android:inputType="textPassword"
+                style="@style/edittext_model_3"
+                android:nextFocusDown="@+id/companyEdittext"/>
+
+        </LinearLayout>
+
+        <LinearLayout
+            style="@style/linear_layout_vertical_1"
+            android:layout_width="0dp"
+            android:layout_weight="0.5">
+
+            <TextView
+                android:id="@+id/companyTextview"
+                android:text="Company Name"
+                style="@style/textview_model_4" />
+
+            <EditText
+                android:id="@+id/companyEdittext"
+                android:hint="@string/prompt_company"
+                style="@style/edittext_model_3" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        style="@style/linear_layout_horizontal_1"
+        android:paddingBottom="20dp">
+
+        <CheckBox
+            android:layout_width="0dp"
+            android:layout_weight="0.5"
+            android:text="remember me"
+            android:id="@+id/rememberMeCheckbox"
+            android:layout_gravity="start|center_vertical"
+            style="@style/textview_model_1"/>
+
+        <Spinner
+            android:id="@+id/spinnerLanguages"
+            style="@style/spinner_model_1"
+            android:entries="@array/languages"
+            android:layout_width="0dp"
+            android:layout_weight="0.5" />
+
+    </LinearLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dip"
+        android:layout_weight="1" >
+
+        <Button
+            android:id="@+id/loginButton"
+            style="@style/button_black"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/action_login" />
+
+    </FrameLayout>
+
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <TextView
+            android:id="@+id/registerTextview"
+            style="@style/textview_model_5"
+            android:layout_width="wrap_content"
+            android:layout_gravity="bottom|start"
+            android:text="register" />
+
+        <TextView
+            android:id="@+id/newCompanyTextview"
+            style="@style/textview_model_5"
+            android:layout_width="wrap_content"
+            android:layout_gravity="bottom|end"
+            android:text="new company" />
+
+    </FrameLayout>
+
+</LinearLayout>

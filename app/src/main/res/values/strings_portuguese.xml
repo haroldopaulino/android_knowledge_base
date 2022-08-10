@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_activity_title_portuguese">Banco de Soluções</string>
+    <string name="login_company_hint_portuguese">Empresa</string>
+    <string name="login_password_hint_portuguese">Senha</string>
+    <string name="company_portuguese">Empresa</string>
+    <string name="password_portuguese">Senha</string>
+    <string name="remember_me_portuguese">lembrar senha</string>
+    <string name="create_company_missing_information_message_portuguese">Empresa, Nome, Sobrenome, Email e Senha têm de ser preenchidos.</string>
+    <string name="login_missing_information_message_portuguese">Empresa, Email e Senha têm de ser preenchidos.</string>
+    <string name="login_invalid_message_portuguese">Login Inválido</string>
+    <string name="disabled_user_message_portuguese">Seu usuário está desabilitado!\nEntre em contato com o administrador da sua empresa.</string>
+    <string name="error_portuguese">Erro</string>
+
+    <string name="main_menu_search_solution_portuguese">Buscar Solução</string>
+    <string name="main_menu_new_solution_portuguese">Nova Solução</string>
+    <string name="main_menu_manage_solutions_portuguese">Gerenciar Soluções</string>
+    <string name="main_menu_new_user_portuguese">Novo Usuário</string>
+    <string name="main_menu_manage_users_portuguese">Gerenciar Usuários</string>
+    <string name="main_menu_new_category_portuguese">Nova Categoria</string>
+    <string name="main_menu_manage_categories_portuguese">Gerenciar Categorias</string>
+    <string name="main_menu_my_info_portuguese">Minha Informação</string>
+    <string name="main_menu_import_solutions_portuguese">Importar Soluções</string>
+    <string name="main_menu_export_solutions_portuguese">Exportar Soluções</string>
+
+    <string name="register_portuguese">Registrar</string>
+    <string name="registration_portuguese">Registro</string>
+    <string name="registration_confirmation_portuguese">Proceder com Registro?</string>
+
+    <string name="new_company_portuguese">Nova Empresa</string>
+    <string name="new_company_confirmation_portuguese">Criar Empresa?</string>
+
+    <string name="create_user_portuguese">Criar Usuário</string>
+    <string name="creating_company_portuguese">Criando Empresa</string>
+    <string name="search_solution_portuguese">Buscar Solução</string>
+    <string name="create_new_solution_portuguese">Criar Nova Solução</string>
+    <string name="manage_solutions_portuguese">Gerenciar Soluções</string>
+    <string name="manage_users_portuguese">Gerenciar Usuários</string>
+    <string name="manage_user_record_portuguese">Gerenciar registro de usuário</string>
+    <string name="manage_solution_record_portuguese">Gerenciar Registro de Solução</string>
+    <string name="creating_new_solution_portuguese">Criando Nova Solução</string>
+    <string name="no_connection_available_portuguese">Conexão Indisponível</string>
+    <string name="invalid_internet_connection_portuguese">Conexão de Internet Inválida</string>
+    <string name="error_connecting_to_server_portuguese">Erro ao conectar ao servidor</string>
+    <string name="error_receiving_data_from_server_portuguese">Erro recebendo dados do servidor</string>
+    <string name="communication_error_portuguese">Error de comunicação</string>
+    <string name="error_communicating_with_server_portuguese">Erro communicando com o servidor</string>
+    <string name="processing_portuguese">Processando</string>
+    <string name="logging_in_portuguese">Logando ...</string>
+    <string name="email_portuguese">Email</string>
+    <string name="category_portuguese">Categoria</string>
+    <string name="problem_portuguese">Tópico</string>
+    <string name="solution_portuguese">Solução</string>
+    <string name="status_portuguese">Situação</string>
+    <string name="search_portuguese">Buscar</string>
+    <string name="access_type_portuguese">Tipo de Acesso</string>
+    <string name="name_portuguese">Nome</string>
+    <string name="firstname_portuguese">Nome</string>
+    <string name="lastname_portuguese">Sobrenome</string>
+    <string name="address_portuguese">Endereço</string>
+    <string name="city_portuguese">Cidade</string>
+    <string name="state_portuguese">Estado</string>
+    <string name="zip_portuguese">CEP</string>
+    <string name="phone1_portuguese">Fone 1</string>
+    <string name="phone2_portuguese">Fone 2</string>
+    <string name="new_user_portuguese">Novo Usuário</string>
+    <string name="processing_search_portuguese">Processando Busca</string>
+    <string name="matches_found_portuguese">Ocorrências</string>
+    <string name="nothing_found_portuguese">Nada Encontrado</string>
+    <string name="update_portuguese">Atualizar</string>
+    <string name="delete_portuguese">Deletar</string>
+    <string name="confirm_deletion_portuguese">Confirmar deleção</string>
+    <string name="proceed_with_deletion_portuguese">Proceder com a deleção?</string>
+    <string name="yes_portuguese">Sim</string>
+    <string name="no_portuguese">Não</string>
+    <string name="close_portuguese">Fechar</string>
+    <string name="administrator_portuguese">Administrador</string>
+    <string name="transaction_failed_portuguese">Transação falhou</string>
+    <string name="transaction_success_portuguese">Sucesso na transação</string>
+    <string name="solution_cannot_be_blank_portuguese">A solução não pode ficar em branco!</string>
+    <string name="title_cannot_be_blank_portuguese">O título não pode ficar em branco!</string>
+    <string-array name="solution_statuses_portuguese">
+		<item>Aprovada</item>
+		<item>Desaprovada</item>
+	</string-array>
+    <string-array name="solution_statuses_with_blank_portuguese">
+		<item> </item>
+		<item>Aprovada</item>
+		<item>Desaprovada</item>
+	</string-array>
+	<string-array name="access_types_portuguese">
+        <item>Desabilitado</item>
+        <item>Administrador</item>
+		<item>Empregado</item>
+	</string-array>
+	<string-array name="access_types_with_blank_portuguese">
+		<item> </item>
+        <item>Desabilitado</item>
+        <item>Administrador</item>
+		<item>Empregado</item>
+	</string-array>
+</resources>

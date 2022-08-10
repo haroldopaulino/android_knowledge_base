@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Not for commercial use) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.746831in" height="0.746831in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 19347 19347"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:black;stroke-width:180;stroke-miterlimit:2.61313}
+    .str0 {stroke:#373535;stroke-width:78;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:78;stroke-miterlimit:2.61313}
+    .fil0 {fill:#E6E7E8}
+    .fil1 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="39" y="39" width="19269" height="19269" rx="2261" ry="2261"/>
+  <g id="_105553270838080">
+   <path class="fil1 str1" d="M5303 9694c-92,-88 -374,-256 -476,-323 -491,-324 -851,-473 -1138,-1178 -357,-877 -67,-1749 479,-2290 1262,-1248 3548,-448 3548,1505 0,1216 -729,1591 -1458,2099 -145,101 -225,112 -270,217 229,134 848,253 1176,370 148,53 358,160 523,242 552,275 876,571 1264,1051 238,295 390,648 390,1136l-6 1490 -7404 -3 -4 -1573c0,-805 789,-1476 1253,-1808 287,-206 694,-394 1026,-521 306,-117 1015,-281 1097,-415zm1827 -140c47,-120 182,-183 277,-269 721,-653 1031,-1820 673,-2741 -402,-1034 -1286,-1740 -2492,-1735 -1835,8 -3054,1939 -2325,3640 307,715 739,906 937,1131 -82,50 -230,87 -339,130 -672,264 -1568,886 -1955,1446 -133,192 -265,406 -347,624 -123,326 -132,416 -132,829 0,633 0,1266 0,1899 260,46 5766,15 6304,15 669,0 1437,35 2093,-5 1,-636 0,-1273 0,-1909 0,-333 -5,-604 -115,-865 -280,-664 -727,-1162 -1305,-1554 -715,-485 -897,-425 -1275,-636z"/>
+   <rect class="fil1 str2" x="11926" y="6611" width="5995" height="599" rx="300" ry="300"/>
+   <rect class="fil1 str2" x="11926" y="8425" width="5995" height="599" rx="300" ry="300"/>
+   <rect class="fil1 str2" x="11926" y="10238" width="5995" height="599" rx="300" ry="300"/>
+   <rect class="fil1 str2" x="11926" y="12051" width="5995" height="599" rx="300" ry="300"/>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,98 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:weightSum="1"
+	android:background="@drawable/background1"
+	android:padding="@dimen/layout_container_padding" >
+
+	<include layout="@layout/header_with_back_button_and_title"/>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:paddingTop="5dp"
+		android:paddingBottom="10dp"
+		android:orientation="vertical" >
+
+		<LinearLayout
+			style="@style/linear_layout_horizontal_1" >
+
+			<TextView
+				android:id="@+id/firstNameTextview"
+				style="@style/textview_model_1"
+				android:layout_width="110dp"
+				android:gravity="end"
+				android:text=" By First Name:" />
+
+			<EditText
+				android:id="@+id/firstNameEdittext"
+				style="@style/edittext_model_2" />
+
+		</LinearLayout>
+
+		<LinearLayout
+			style="@style/linear_layout_horizontal_1" >
+
+			<TextView
+				android:id="@+id/lastNameTextview"
+				style="@style/textview_model_1"
+				android:layout_width="110dp"
+				android:gravity="end"
+				android:text=" By Last Name:" />
+
+			<EditText
+				android:id="@+id/lastNameEdittext"
+				style="@style/edittext_model_2" />
+
+		</LinearLayout>
+
+		<LinearLayout
+			style="@style/linear_layout_horizontal_1" >
+
+			<TextView
+				android:id="@+id/emailTextview"
+				style="@style/textview_model_1"
+				android:layout_width="110dp"
+				android:gravity="end"
+				android:text=" By Email:" />
+
+			<EditText
+				android:id="@+id/emailEdittext"
+				style="@style/edittext_model_2" />
+
+		</LinearLayout>
+
+		<LinearLayout
+			style="@style/linear_layout_horizontal_1" >
+
+			<TextView
+				android:id="@+id/accessTypeTextview"
+				style="@style/textview_model_1"
+				android:layout_width="110dp"
+				android:gravity="end"
+				android:text="Access Type: " />
+
+			<Spinner
+				android:id="@+id/accessTypeSpinner"
+				android:layout_width="0dp"
+				android:layout_weight="1"
+				style="@style/spinner_model_1" />
+
+		</LinearLayout>
+	</LinearLayout>
+
+	<Button
+		android:id="@+id/searchButton"
+		android:layout_width="match_parent"
+		android:layout_height="35dp"
+		android:layout_gravity="center|center"
+		android:text=" Search "
+		style="@style/button_black" />
+
+	<ListView
+		android:id="@+id/mainList"
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:layout_weight="1"/>
+</LinearLayout>

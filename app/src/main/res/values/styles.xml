@@ -1,0 +1,178 @@
+<resources>
+
+    <style name="AppTheme.NoActionBar" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <item name="android:windowFullscreen">true</item>
+    </style>
+    
+    <style name="edittext_model_1">
+        <item name="android:background">@drawable/iphone_edit_text</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/font_size_edit_text_1</item>
+        <item name="android:gravity">start|top</item>
+        <item name="android:layout_margin">3sp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_width">110dp</item>
+        <item name="android:layout_height">@dimen/layout_height_edittext_1</item>
+    </style>
+	
+    <style name="edittext_model_2">
+        <item name="android:background">@drawable/iphone_edit_text</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/font_size_edit_text_1</item>
+        <item name="android:layout_margin">3sp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_height">@dimen/layout_height_edittext_1</item>
+        <item name="android:singleLine">true</item>
+    </style>
+
+    <style name="edittext_model_3">
+        <item name="android:background">@drawable/iphone_edit_text</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">normal</item>
+        <item name="android:textSize">@dimen/font_size_edit_text_1</item>
+        <item name="android:gravity">start|center_vertical</item>
+        <item name="android:layout_margin">3sp</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">@dimen/layout_height_edittext_1</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:focusable">true</item>
+    </style>
+    
+    <style name="textview_model_1">
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">@dimen/font_size_text_view_1</item>
+        <item name="android:layout_gravity">right|center_vertical</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_marginRight">10dp</item>
+        <item name="android:singleLine">true</item>
+    </style>
+    
+    <style name="textview_model_2">
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">@dimen/font_size_text_view_1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">center|center</item>
+        <item name="android:gravity">center|center</item>
+        <item name="android:background">#000000</item>
+        <item name="android:layout_margin">45sp</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    
+    <style name="textview_model_3">
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">@dimen/font_size_text_view_pending_1</item>
+        <item name="android:layout_gravity">center|center</item>
+        <item name="android:gravity">center|center</item>
+        <item name="android:layout_width">fill_parent</item>
+    </style>
+    
+    <style name="textview_model_4">
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">@dimen/font_size_text_view_pending_1</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:gravity">start</item>
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+
+    <style name="textview_model_5">
+        <item name="android:typeface">sans</item>
+        <item name="android:textSize">@dimen/font_size_text_view_pending_1</item>
+        <item name="android:textStyle">italic</item>
+        <item name="android:layout_gravity">start</item>
+        <item name="android:gravity">start</item>
+        <item name="android:textColor">#0000ff</item>
+        <item name="android:layout_marginStart">5dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    
+    <style name="spinner_model_1">
+        <item name="android:background">@drawable/slim_spinner_normal</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_size_spinner_1</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:layout_margin">3sp</item>
+        <item name="android:layout_height">@dimen/layout_height_spinner_1</item>
+        <item name="android:layout_width">match_parent</item>
+    </style>
+    
+    <style name="font_size_spinner_pending_1">
+        <item name="android:background">@drawable/slim_spinner_normal</item>
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_size_spinner_1</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:layout_margin">3sp</item>
+        <item name="android:layout_height">@dimen/layout_height_spinner_pending_1</item>
+        <item name="android:layout_width">@dimen/layout_width_edit_text_1</item>
+    </style>
+    
+    <style name="checkbox_model_1">
+        <item name="android:textColor">#000000</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_size_checkbox_1</item>
+        <item name="android:gravity">left|center_vertical</item>
+        <item name="android:layout_margin">6sp</item>
+    </style>
+    
+    <style name="button_black">
+        <item name="android:background">@drawable/black_button</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_size_spinner_1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">1sp</item>
+        <item name="android:paddingLeft">25dp</item>
+        <item name="android:paddingRight">25dp</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    
+    <style name="button_black_pending_1">
+        <item name="android:background">@drawable/black_button</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:typeface">sans</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">@dimen/font_size_button_pending_1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:layout_margin">1sp</item>
+    </style>
+
+    <style name="linear_layout_horizontal_1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">horizontal</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:weightSum">1</item>
+    </style>
+
+    <style name="linear_layout_vertical_1">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:orientation">vertical</item>
+        <item name="android:paddingBottom">5dp</item>
+        <item name="android:weightSum">1</item>
+    </style>
+
+</resources>

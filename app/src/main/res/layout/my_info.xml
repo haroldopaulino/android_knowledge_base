@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+	android:weightSum="1"
+	android:orientation="vertical"
+	android:background="@drawable/background1"
+	android:padding="@dimen/layout_container_padding">
+
+	<include layout="@layout/header_with_back_button_and_title"/>
+
+    <ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="0dp"
+		android:padding="10dp"
+		android:layout_weight="1">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:orientation="vertical">
+
+			<LinearLayout
+				android:id="@+id/accessTypeContainer"
+				style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/accessTypeTextview"
+					android:text="Access Type"
+					style="@style/textview_model_1" />
+
+				<Spinner
+					android:id="@+id/accessTypeSpinner"
+					style="@style/spinner_model_1"
+					android:entries="@array/access_types" />
+
+			</LinearLayout>
+
+			<LinearLayout
+				android:id="@+id/companyContainer"
+				style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/companyTextview"
+					android:text="Company Name"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/companyEdittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/emailTextview"
+					android:text="Email"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/emailEdittext"
+					android:inputType="textEmailAddress"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout
+				style="@style/linear_layout_horizontal_1"
+				android:id="@+id/passwordContainer" >
+
+				<TextView
+					android:id="@+id/passwordTextview"
+					android:text="Password"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/passwordEdittext"
+					android:inputType="textPassword"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/firstNameTextview"
+					android:text="First Name"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/firstNameEdittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/lastNameTextview"
+					android:text="Last Name"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/lastNameEdittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/address1Textview"
+					android:text="Address"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/address1Edittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/address2Textview"
+					android:text="Address"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/address2Edittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/cityTextview"
+					android:text="City"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/cityEdittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/stateTextview"
+					android:text="State"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/stateEdittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/zipTextview"
+					android:text="ZIP"
+					android:inputType=""
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/zipEdittext"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/phone1Textview"
+					android:text="Phone #1"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/phone1Edittext"
+					android:inputType="phone"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+			<LinearLayout style="@style/linear_layout_horizontal_1">
+
+				<TextView
+					android:id="@+id/phone2Textview"
+					android:text="Phone #2"
+					style="@style/textview_model_1" />
+
+				<EditText
+					android:id="@+id/phone2Edittext"
+					android:inputType="phone"
+					style="@style/edittext_model_2" />
+
+			</LinearLayout>
+
+		</LinearLayout>
+
+	</ScrollView>
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="#C7C2C2"
+		android:padding="10dp">
+
+		<Button
+			android:id="@+id/updateButton"
+			style="@style/button_black"
+			android:text="Update"
+			app:layout_constraintEnd_toStartOf="@+id/deleteButton"
+			app:layout_constraintHorizontal_bias="0.5"
+			app:layout_constraintStart_toStartOf="parent" />
+
+		<Button
+			android:id="@+id/deleteButton"
+			style="@style/button_black"
+			android:text="Delete"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintHorizontal_bias="0.5"
+			app:layout_constraintStart_toEndOf="@+id/updateButton"
+			tools:layout_editor_absoluteY="0dp" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</LinearLayout>

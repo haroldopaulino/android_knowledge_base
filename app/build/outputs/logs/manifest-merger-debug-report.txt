@@ -1,0 +1,326 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+MERGED from [com.google.android.material:material:1.6.1] /Users/harold/.gradle/caches/transforms-3/f9152b033fde59f5ca45a72a3d559041/transformed/material-1.6.1/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/harold/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/harold/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/harold/.gradle/caches/transforms-3/ba800a811f861f5ca8a90cbc7808028a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/harold/.gradle/caches/transforms-3/797f93b5ccc7b0eec2904dea19aaaa6f/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harold/.gradle/caches/transforms-3/59fa8301d53c71394684570edc8ef21d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harold/.gradle/caches/transforms-3/397b5701bb7a56a46e8a15f5da62e2e3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harold/.gradle/caches/transforms-3/b6f0b7d80239f58f26656406c614f09d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/harold/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /Users/harold/.gradle/caches/transforms-3/9cfc3b0929834b5b3d0f08d5d711a82f/transformed/jetified-activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/harold/.gradle/caches/transforms-3/7663e7dd8c13de6777accd764239d1fd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.media:media:1.0.0] /Users/harold/.gradle/caches/transforms-3/7d1e9f7be3ec064d7e5a69c945564f3e/transformed/media-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harold/.gradle/caches/transforms-3/f1b5680efb47e79364949f277f34bf8c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harold/.gradle/caches/transforms-3/c49166d97a78fd068fc4fe02943dad97/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harold/.gradle/caches/transforms-3/8a4db4509c38a749cb7a8bd7f471ebbb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/harold/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harold/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/harold/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harold/.gradle/caches/transforms-3/d1326cc81925655942a0cd79010faecb/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/harold/.gradle/caches/transforms-3/52641853f7fa10c6f2a0e515e20382f8/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harold/.gradle/caches/transforms-3/2d8b46a5427acedcf4525b1a0b0e849e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harold/.gradle/caches/transforms-3/468db8a201de492d35b7470451280166/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harold/.gradle/caches/transforms-3/5404393990408608f5d92ccb032a5722/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harold/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/harold/.gradle/caches/transforms-3/926fd68cf9cb01b85378ec6662b0d4dd/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.7.0] /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harold/.gradle/caches/transforms-3/2b200d4d3b881208509d018ba33eb6e6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/harold/.gradle/caches/transforms-3/f6f309091c8e8de13587887820281da1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/harold/.gradle/caches/transforms-3/d70c171da1c6941cb28820c0b7d1cd56/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/harold/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harold/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harold/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/harold/.gradle/caches/transforms-3/f470a30ea06833e93815749d70cf5892/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harold/.gradle/caches/transforms-3/b1158679a36f44b87bb5426138a201f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/harold/.gradle/caches/transforms-3/8568c11d6da6a25377c4d0e341983bf2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/harold/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harold/.gradle/caches/transforms-3/7b2a5a3e78c2ef595cb0c83fb2a61599/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harold/.gradle/caches/transforms-3/ef80dcc1fa5209bc16b4a46c51b114b7/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harold/.gradle/caches/transforms-3/15f52d06e80eb4dc9e54b5a875209cc7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/harold/.gradle/caches/transforms-3/2e60b2a2da90e0702d7456ba71948db7/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harold/.gradle/caches/transforms-3/bb56c8f8647b714447b022d0c7019178/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/harold/.gradle/caches/transforms-3/f9d6feafdb61ec14c5e548e9330b4560/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+	package
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:1-60:12
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:5:5-76
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:5:22-73
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:7:5-79
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:7:22-77
+application
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:9:5-58:19
+MERGED from [com.google.android.material:material:1.6.1] /Users/harold/.gradle/caches/transforms-3/f9152b033fde59f5ca45a72a3d559041/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.6.1] /Users/harold/.gradle/caches/transforms-3/f9152b033fde59f5ca45a72a3d559041/transformed/material-1.6.1/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/harold/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/harold/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.core:core:1.7.0] /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harold/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harold/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:requestLegacyExternalStorage
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:12:9-52
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:11:9-41
+	android:largeHeap
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:16:9-33
+	android:icon
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:13:9-45
+	android:allowBackup
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:15:9-52
+	android:dataExtractionRules
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:17:9-65
+activity#com.prpinfo.bancodesolucoes.LoginActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:18:9-28:20
+	android:windowSoftInputMode
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:21:13-68
+	android:exported
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:22:13-36
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:20:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:19:13-42
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:26:27-74
+activity#com.prpinfo.bancodesolucoes.MainActivityJava
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:29:9-32:63
+	android:windowSoftInputMode
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:32:13-60
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:31:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:30:13-45
+activity#com.prpinfo.bancodesolucoes.LookupActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:33:9-36:63
+	android:windowSoftInputMode
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:36:13-60
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:35:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:34:13-43
+activity#com.prpinfo.bancodesolucoes.ManageSolutionsListActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:37:9-38:59
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:38:13-56
+activity#com.prpinfo.bancodesolucoes.ManageSolutionsActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:39:9-41:66
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:41:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:40:13-52
+activity#com.prpinfo.bancodesolucoes.ManageSolutionsDetailActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:42:9-45:63
+	android:windowSoftInputMode
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:45:13-60
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:44:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:43:13-58
+activity#com.prpinfo.bancodesolucoes.ManageUsersActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:46:9-48:66
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:48:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:47:13-48
+activity#com.prpinfo.bancodesolucoes.MyInfoActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:49:9-51:66
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:51:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:50:13-43
+activity#com.prpinfo.bancodesolucoes.ManageCategoriesActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:52:9-54:66
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:54:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:53:13-53
+activity#com.prpinfo.bancodesolucoes.ManageCategoriesDetailActivity
+ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:55:9-57:66
+	android:configChanges
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:57:13-63
+	android:name
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml:56:13-59
+uses-sdk
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.6.1] /Users/harold/.gradle/caches/transforms-3/f9152b033fde59f5ca45a72a3d559041/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.6.1] /Users/harold/.gradle/caches/transforms-3/f9152b033fde59f5ca45a72a3d559041/transformed/material-1.6.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/harold/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] /Users/harold/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/harold/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.2] /Users/harold/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/harold/.gradle/caches/transforms-3/ba800a811f861f5ca8a90cbc7808028a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] /Users/harold/.gradle/caches/transforms-3/ba800a811f861f5ca8a90cbc7808028a/transformed/legacy-support-v4-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/harold/.gradle/caches/transforms-3/797f93b5ccc7b0eec2904dea19aaaa6f/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.2] /Users/harold/.gradle/caches/transforms-3/797f93b5ccc7b0eec2904dea19aaaa6f/transformed/jetified-appcompat-resources-1.4.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harold/.gradle/caches/transforms-3/59fa8301d53c71394684570edc8ef21d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/harold/.gradle/caches/transforms-3/59fa8301d53c71394684570edc8ef21d/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harold/.gradle/caches/transforms-3/397b5701bb7a56a46e8a15f5da62e2e3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/harold/.gradle/caches/transforms-3/397b5701bb7a56a46e8a15f5da62e2e3/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harold/.gradle/caches/transforms-3/b6f0b7d80239f58f26656406c614f09d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/harold/.gradle/caches/transforms-3/b6f0b7d80239f58f26656406c614f09d/transformed/jetified-viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/harold/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/harold/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/harold/.gradle/caches/transforms-3/9cfc3b0929834b5b3d0f08d5d711a82f/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /Users/harold/.gradle/caches/transforms-3/9cfc3b0929834b5b3d0f08d5d711a82f/transformed/jetified-activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/harold/.gradle/caches/transforms-3/7663e7dd8c13de6777accd764239d1fd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /Users/harold/.gradle/caches/transforms-3/7663e7dd8c13de6777accd764239d1fd/transformed/jetified-emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.media:media:1.0.0] /Users/harold/.gradle/caches/transforms-3/7d1e9f7be3ec064d7e5a69c945564f3e/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] /Users/harold/.gradle/caches/transforms-3/7d1e9f7be3ec064d7e5a69c945564f3e/transformed/media-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harold/.gradle/caches/transforms-3/f1b5680efb47e79364949f277f34bf8c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/harold/.gradle/caches/transforms-3/f1b5680efb47e79364949f277f34bf8c/transformed/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harold/.gradle/caches/transforms-3/c49166d97a78fd068fc4fe02943dad97/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/harold/.gradle/caches/transforms-3/c49166d97a78fd068fc4fe02943dad97/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harold/.gradle/caches/transforms-3/8a4db4509c38a749cb7a8bd7f471ebbb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/harold/.gradle/caches/transforms-3/8a4db4509c38a749cb7a8bd7f471ebbb/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/harold/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/harold/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harold/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/harold/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/harold/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/harold/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harold/.gradle/caches/transforms-3/d1326cc81925655942a0cd79010faecb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/harold/.gradle/caches/transforms-3/d1326cc81925655942a0cd79010faecb/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harold/.gradle/caches/transforms-3/52641853f7fa10c6f2a0e515e20382f8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/harold/.gradle/caches/transforms-3/52641853f7fa10c6f2a0e515e20382f8/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harold/.gradle/caches/transforms-3/2d8b46a5427acedcf4525b1a0b0e849e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/harold/.gradle/caches/transforms-3/2d8b46a5427acedcf4525b1a0b0e849e/transformed/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harold/.gradle/caches/transforms-3/468db8a201de492d35b7470451280166/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/harold/.gradle/caches/transforms-3/468db8a201de492d35b7470451280166/transformed/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harold/.gradle/caches/transforms-3/5404393990408608f5d92ccb032a5722/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/harold/.gradle/caches/transforms-3/5404393990408608f5d92ccb032a5722/transformed/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harold/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/harold/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/harold/.gradle/caches/transforms-3/926fd68cf9cb01b85378ec6662b0d4dd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/harold/.gradle/caches/transforms-3/926fd68cf9cb01b85378ec6662b0d4dd/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harold/.gradle/caches/transforms-3/2b200d4d3b881208509d018ba33eb6e6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/harold/.gradle/caches/transforms-3/2b200d4d3b881208509d018ba33eb6e6/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/harold/.gradle/caches/transforms-3/f6f309091c8e8de13587887820281da1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /Users/harold/.gradle/caches/transforms-3/f6f309091c8e8de13587887820281da1/transformed/jetified-lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/harold/.gradle/caches/transforms-3/d70c171da1c6941cb28820c0b7d1cd56/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /Users/harold/.gradle/caches/transforms-3/d70c171da1c6941cb28820c0b7d1cd56/transformed/jetified-savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/harold/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /Users/harold/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harold/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/harold/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harold/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/harold/.gradle/caches/transforms-3/f14789d5846b9701d345f2179f361d29/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/harold/.gradle/caches/transforms-3/f470a30ea06833e93815749d70cf5892/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/harold/.gradle/caches/transforms-3/f470a30ea06833e93815749d70cf5892/transformed/jetified-tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harold/.gradle/caches/transforms-3/b1158679a36f44b87bb5426138a201f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/harold/.gradle/caches/transforms-3/b1158679a36f44b87bb5426138a201f4/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/harold/.gradle/caches/transforms-3/8568c11d6da6a25377c4d0e341983bf2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /Users/harold/.gradle/caches/transforms-3/8568c11d6da6a25377c4d0e341983bf2/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/harold/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /Users/harold/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harold/.gradle/caches/transforms-3/7b2a5a3e78c2ef595cb0c83fb2a61599/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/harold/.gradle/caches/transforms-3/7b2a5a3e78c2ef595cb0c83fb2a61599/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harold/.gradle/caches/transforms-3/ef80dcc1fa5209bc16b4a46c51b114b7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/harold/.gradle/caches/transforms-3/ef80dcc1fa5209bc16b4a46c51b114b7/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harold/.gradle/caches/transforms-3/15f52d06e80eb4dc9e54b5a875209cc7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/harold/.gradle/caches/transforms-3/15f52d06e80eb4dc9e54b5a875209cc7/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harold/.gradle/caches/transforms-3/2e60b2a2da90e0702d7456ba71948db7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/harold/.gradle/caches/transforms-3/2e60b2a2da90e0702d7456ba71948db7/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harold/.gradle/caches/transforms-3/bb56c8f8647b714447b022d0c7019178/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/harold/.gradle/caches/transforms-3/bb56c8f8647b714447b022d0c7019178/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/harold/.gradle/caches/transforms-3/f9d6feafdb61ec14c5e548e9330b4560/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /Users/harold/.gradle/caches/transforms-3/f9d6feafdb61ec14c5e548e9330b4560/transformed/jetified-annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		ADDED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/AndroidManifest.xml:32:17-75
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78

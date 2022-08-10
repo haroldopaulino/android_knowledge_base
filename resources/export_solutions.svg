@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW (Not for commercial use) -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="0.746831in" height="0.746831in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 77148 77148"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str2 {stroke:#373535;stroke-width:2870;stroke-miterlimit:2.61313}
+    .str3 {stroke:#373535;stroke-width:2152;stroke-miterlimit:2.61313}
+    .str1 {stroke:black;stroke-width:717;stroke-miterlimit:2.61313}
+    .str0 {stroke:#373535;stroke-width:310;stroke-miterlimit:2.61313}
+    .fil2 {fill:none}
+    .fil0 {fill:#E6E7E8}
+    .fil1 {fill:black}
+   ]]>
+  </style>
+ </defs>
+ <g id="Layer_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <rect class="fil0 str0" x="155" y="155" width="76838" height="76838" rx="9017" ry="9017"/>
+  <g id="_105553349120096">
+   <rect class="fil1 str1" x="15598" y="19825" width="3090" height="1759" rx="154" ry="880"/>
+   <rect class="fil1 str1" x="15598" y="25146" width="3090" height="1759" rx="154" ry="880"/>
+   <rect class="fil1 str1" x="15598" y="30467" width="3090" height="1759" rx="154" ry="880"/>
+   <rect class="fil1 str1" x="15598" y="35787" width="3090" height="1759" rx="154" ry="880"/>
+   <rect class="fil1 str1" x="21679" y="19825" width="40185" height="1759" rx="2009" ry="880"/>
+   <rect class="fil1 str1" x="21679" y="25146" width="31524" height="1759" rx="1576" ry="880"/>
+   <rect class="fil1 str1" x="21679" y="30467" width="20354" height="1759" rx="1018" ry="880"/>
+   <rect class="fil1 str1" x="21679" y="35787" width="6485" height="1759" rx="324" ry="880"/>
+   <rect class="fil1 str1" x="15598" y="41108" width="3090" height="1759" rx="154" ry="880"/>
+   <path class="fil2 str2" d="M39523 60674c-8294,-9786 -4134,-19538 16881,-19078l7280 0 -6276 -6025 6276 6025 -6276 5523 6276 -5523"/>
+   <path class="fil2 str3" d="M67061 56341l0 4312c0,2064 -1689,3753 -3753,3753l-49468 0c-2064,0 -3753,-1689 -3753,-3753l0 -44157c0,-2064 1689,-3753 3753,-3753l49468 0c2064,0 3753,1689 3753,3753l0 10582"/>
+  </g>
+ </g>
+</svg>

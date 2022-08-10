@@ -1,0 +1,28 @@
+com.prpinfo.bancodesolucoes.app-recyclerview-1.1.0-0 /Users/harold/.gradle/caches/transforms-3/020244b9cdabe2fcb0027b815fc9caa8/transformed/recyclerview-1.1.0/res
+com.prpinfo.bancodesolucoes.app-constraintlayout-2.1.4-1 /Users/harold/.gradle/caches/transforms-3/04ad0b4a023e5fc6ca2669406151a6ea/transformed/constraintlayout-2.1.4/res
+com.prpinfo.bancodesolucoes.app-appcompat-1.4.2-2 /Users/harold/.gradle/caches/transforms-3/07c7f1074054558b72e7eb340ed69331/transformed/appcompat-1.4.2/res
+com.prpinfo.bancodesolucoes.app-lifecycle-runtime-2.4.0-3 /Users/harold/.gradle/caches/transforms-3/0b0a237a3c01d4764bd717c24e34a6b5/transformed/lifecycle-runtime-2.4.0/res
+com.prpinfo.bancodesolucoes.app-jetified-emoji2-1.0.0-4 /Users/harold/.gradle/caches/transforms-3/0b84d9e334da4d127aa9fed3b0b48d94/transformed/jetified-emoji2-1.0.0/res
+com.prpinfo.bancodesolucoes.app-jetified-startup-runtime-1.0.0-5 /Users/harold/.gradle/caches/transforms-3/0c377662fef10a1c3a83bb12ca2a7e18/transformed/jetified-startup-runtime-1.0.0/res
+com.prpinfo.bancodesolucoes.app-transition-1.2.0-6 /Users/harold/.gradle/caches/transforms-3/14b3c7ff9bc3b46d8068b9514278113d/transformed/transition-1.2.0/res
+com.prpinfo.bancodesolucoes.app-jetified-lifecycle-process-2.4.0-7 /Users/harold/.gradle/caches/transforms-3/3fce091a6e833946805b7c0bee25baa5/transformed/jetified-lifecycle-process-2.4.0/res
+com.prpinfo.bancodesolucoes.app-coordinatorlayout-1.1.0-8 /Users/harold/.gradle/caches/transforms-3/42a1242bd9b281b95b98166e5c9d62ed/transformed/coordinatorlayout-1.1.0/res
+com.prpinfo.bancodesolucoes.app-lifecycle-viewmodel-2.3.1-9 /Users/harold/.gradle/caches/transforms-3/6340fe10701247dcc96b0353a77826e4/transformed/lifecycle-viewmodel-2.3.1/res
+com.prpinfo.bancodesolucoes.app-core-1.7.0-10 /Users/harold/.gradle/caches/transforms-3/63ad84e83eebc1c35e94014d9fd0c5a0/transformed/core-1.7.0/res
+com.prpinfo.bancodesolucoes.app-jetified-emoji2-views-helper-1.0.0-11 /Users/harold/.gradle/caches/transforms-3/7663e7dd8c13de6777accd764239d1fd/transformed/jetified-emoji2-views-helper-1.0.0/res
+com.prpinfo.bancodesolucoes.app-jetified-appcompat-resources-1.4.2-12 /Users/harold/.gradle/caches/transforms-3/797f93b5ccc7b0eec2904dea19aaaa6f/transformed/jetified-appcompat-resources-1.4.2/res
+com.prpinfo.bancodesolucoes.app-media-1.0.0-13 /Users/harold/.gradle/caches/transforms-3/7d1e9f7be3ec064d7e5a69c945564f3e/transformed/media-1.0.0/res
+com.prpinfo.bancodesolucoes.app-fragment-1.3.6-14 /Users/harold/.gradle/caches/transforms-3/b3aa350f4ac90edfb40e0da537b8925b/transformed/fragment-1.3.6/res
+com.prpinfo.bancodesolucoes.app-jetified-viewpager2-1.0.0-15 /Users/harold/.gradle/caches/transforms-3/b6f0b7d80239f58f26656406c614f09d/transformed/jetified-viewpager2-1.0.0/res
+com.prpinfo.bancodesolucoes.app-drawerlayout-1.1.1-16 /Users/harold/.gradle/caches/transforms-3/c1e67adaf8e753ede21de05035a7ba1f/transformed/drawerlayout-1.1.1/res
+com.prpinfo.bancodesolucoes.app-jetified-savedstate-1.1.0-17 /Users/harold/.gradle/caches/transforms-3/d70c171da1c6941cb28820c0b7d1cd56/transformed/jetified-savedstate-1.1.0/res
+com.prpinfo.bancodesolucoes.app-material-1.6.1-18 /Users/harold/.gradle/caches/transforms-3/f9152b033fde59f5ca45a72a3d559041/transformed/material-1.6.1/res
+com.prpinfo.bancodesolucoes.app-jetified-annotation-experimental-1.1.0-19 /Users/harold/.gradle/caches/transforms-3/f9d6feafdb61ec14c5e548e9330b4560/transformed/jetified-annotation-experimental-1.1.0/res
+com.prpinfo.bancodesolucoes.app-cardview-1.0.0-20 /Users/harold/.gradle/caches/transforms-3/ffa621b045168f3978544764e72b6c93/transformed/cardview-1.0.0/res
+com.prpinfo.bancodesolucoes.app-resValues-21 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/build/generated/res/resValues/debug
+com.prpinfo.bancodesolucoes.app-rs-22 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/build/generated/res/rs/debug
+com.prpinfo.bancodesolucoes.app-mergeDebugResources-23 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.prpinfo.bancodesolucoes.app-mergeDebugResources-24 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.prpinfo.bancodesolucoes.app-merged_res-25 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/build/intermediates/merged_res/debug
+com.prpinfo.bancodesolucoes.app-debug-26 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/debug/res
+com.prpinfo.bancodesolucoes.app-main-27 /Users/harold/Library/Mobile Documents/com~apple~CloudDocs/Android/Knowledge Base/app/src/main/res

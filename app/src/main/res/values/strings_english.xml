@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_activity_title_english">Knowledge Base</string>
+    <string name="login_company_hint_english">Company</string>
+    <string name="login_password_hint_english">Password</string>
+    <string name="company_english">Company</string>
+    <string name="password_english">Password</string>
+    <string name="remember_me_english">remember me</string>
+    <string name="create_company_missing_information_message_english">The company, firstname, lastname, email and password must be entered.</string>
+    <string name="login_missing_information_message_english">The company name, email and password must be entered.</string>
+    <string name="login_invalid_message_english">Invalid Login</string>
+    <string name="disabled_user_message_english">Your user is disabled!\nPlease contact your Company\'s Administrator.</string>
+    <string name="error_english">Error</string>
+
+    <string name="main_menu_search_solution_english">Search Solution</string>
+    <string name="main_menu_new_solution_english">New Solution</string>
+    <string name="main_menu_manage_solutions_english">Manage Solutions</string>
+    <string name="main_menu_new_user_english">New User</string>
+    <string name="main_menu_manage_users_english">Manage Users</string>
+    <string name="main_menu_new_category_english">New Category</string>
+    <string name="main_menu_manage_categories_english">Manage Categories</string>
+    <string name="main_menu_my_info_english">My Info</string>
+    <string name="main_menu_import_solutions_english">Import Solutions</string>
+    <string name="main_menu_export_solutions_english">Export Solutions</string>
+
+    <string name="register_english">Register</string>
+    <string name="registration_english">Registration</string>
+    <string name="registration_confirmation_english">Proceed with Registration?</string>
+
+    <string name="new_company_english">New Company</string>
+    <string name="new_company_confirmation_english">Create a New Company?</string>
+
+    <string name="create_user_english">Create User</string>
+    <string name="creating_company_english">Creating Company</string>
+    <string name="search_solution_english">Search Solution</string>
+    <string name="create_new_solution_english">Create New Solution</string>
+    <string name="manage_solutions_english">Manage Solutions</string>
+    <string name="manage_users_english">Manage Users</string>
+    <string name="manage_user_record_english">Manage User Record</string>
+    <string name="manage_solution_record_english">Edit Solution</string>
+    <string name="creating_new_solution_english">Creating New Solution</string>
+    <string name="no_connection_available_english">No Connection Available</string>
+    <string name="invalid_internet_connection_english">Invalid Internet Connection</string>
+    <string name="error_connecting_to_server_english">Error connecting to the server</string>
+    <string name="error_receiving_data_from_server_english">Error receiving data from the server</string>
+    <string name="communication_error_english">Communication error</string>
+    <string name="error_communicating_with_server_english">Comunication error with the server</string>
+    <string name="processing_english">Processing</string>
+    <string name="logging_in_english">Logging in ...</string>
+    <string name="email_english">Email</string>
+    <string name="category_english">Category</string>
+    <string name="problem_english">Subject</string>
+    <string name="solution_english">Solution</string>
+    <string name="status_english">Status</string>
+    <string name="search_english">Search</string>
+    <string name="access_type_english">Access Type</string>
+    <string name="name_english">Name</string>
+    <string name="firstname_english">First Name</string>
+    <string name="lastname_english">Last Name</string>
+    <string name="address_english">Address</string>
+    <string name="city_english">City</string>
+    <string name="state_english">State</string>
+    <string name="zip_english">Zip</string>
+    <string name="phone1_english">Phone2</string>
+    <string name="phone2_english">Phone1</string>
+    <string name="new_user_english">New User</string>
+    <string name="processing_search_english">Processing Search</string>
+    <string name="matches_found_english">Matches Found</string>
+    <string name="nothing_found_english">Nothing Found</string>
+    <string name="update_english">Update</string>
+    <string name="delete_english">Delete</string>
+    <string name="confirm_deletion_english">Confirm deletion</string>
+    <string name="proceed_with_deletion_english">Proceed with deletion?</string>
+    <string name="yes_english">Yes</string>
+    <string name="no_english">No</string>
+    <string name="close_english">Close</string>
+    <string name="administrator_english">Administrator</string>
+    <string name="transaction_failed_english">Transaction has failed</string>
+    <string name="transaction_success_english">Successful transaction</string>
+    <string name="solution_cannot_be_blank_english">The solution cannot be blank!</string>
+    <string name="title_cannot_be_blank_english">The title cannot be blank!</string>
+    <string-array name="solution_statuses_english">
+		<item>Approved</item>
+		<item>Disapproved</item>
+	</string-array>
+    <string-array name="solution_statuses_with_blank_english">
+		<item> </item>
+		<item>Approved</item>
+		<item>Disapproved</item>
+	</string-array>
+	<string-array name="access_types_english">
+        <item>Disabled</item>
+        <item>Administrator</item>
+		<item>Employee</item>
+	</string-array>
+	<string-array name="access_types_with_blank_english">
+		<item> </item>
+        <item>Disabled</item>
+        <item>Administrator</item>
+		<item>Employee</item>
+	</string-array>
+</resources>

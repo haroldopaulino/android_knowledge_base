@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login_activity_title_spanish">Banco de Soluciones</string>
+    <string name="login_company_hint_spanish">Empresa</string>
+    <string name="login_password_hint_spanish">Contraseña</string>
+    <string name="password_spanish">Contraseña</string>
+    <string name="company_spanish">Empresa</string>
+    <string name="remember_me_spanish">recordar contraseña</string>
+    <string name="create_company_missing_information_message_spanish">La compañía, nombre, apellido , dirección de correo electrónico y la contraseña deben ingresarse.</string>
+    <string name="login_missing_information_message_spanish">El nombre de la empresa , dirección de correo electrónico y la contraseña se debe ingresar.</string>
+    <string name="login_invalid_message_spanish">Credenciales No Válidas</string>
+    <string name="disabled_user_message_spanish">¡Tu usuario está deshabilitado!\nComuníquese con el administrador de su empresa.</string>
+    <string name="error_spanish">Error</string>
+
+    <string name="main_menu_search_solution_spanish">Buscar Solución</string>
+    <string name="main_menu_new_solution_spanish">Nueva Solución</string>
+    <string name="main_menu_manage_solutions_spanish">Gestionar Soluciones</string>
+    <string name="main_menu_new_user_spanish">Nuevo Usuario</string>
+    <string name="main_menu_manage_users_spanish">Administrar Usuarios</string>
+    <string name="main_menu_new_category_spanish">Nueva Categoría</string>
+    <string name="main_menu_manage_categories_spanish">Gestionar Categorías</string>
+    <string name="main_menu_my_info_spanish">Mi Información</string>
+    <string name="main_menu_import_solutions_spanish">Importar Soluciones</string>
+    <string name="main_menu_export_solutions_spanish">Exportar Soluciones</string>
+
+    <string name="register_spanish">Registrarse</string>
+    <string name="registration_spanish">Registro</string>
+    <string name="registration_confirmation_spanish">¿Continuar con el registro?</string>
+
+    <string name="new_company_spanish">Nueva Compañia</string>
+    <string name="new_company_confirmation_spanish">¿Crear una nueva empresa?</string>
+
+    <string name="create_user_spanish">Crear usuario</string>
+    <string name="creating_company_spanish">Creación de Empresa</string>
+    <string name="search_solution_spanish">Buscar Solución</string>
+    <string name="create_new_solution_spanish">Crear Nueva Solución</string>
+    <string name="manage_solutions_spanish">Gestionar Soluciones</string>
+    <string name="manage_users_spanish">Administrar Usuarios</string>
+    <string name="manage_user_record_spanish">Administrar registro de usuario</string>
+    <string name="manage_solution_record_spanish">Administrar los datos de la solución</string>
+    <string name="creating_new_solution_spanish">Creación de una nueva solución</string>
+    <string name="no_connection_available_spanish">Sin Conexión Disponible</string>
+    <string name="invalid_internet_connection_spanish">Conexión a Internet No Válido</string>
+    <string name="error_connecting_to_server_spanish">Error al conectar con el servidor</string>
+    <string name="error_receiving_data_from_server_spanish">Error la recepción de datos desde el servidor</string>
+    <string name="communication_error_spanish">Error de comunicación</string>
+    <string name="error_communicating_with_server_spanish">Error al comunicarse con el servidor</string>
+    <string name="processing_spanish">Procesamiento</string>
+    <string name="logging_in_spanish">Iniciando sesión ...</string>
+    <string name="email_spanish">Email</string>
+    <string name="category_spanish">Categoría</string>
+    <string name="problem_spanish">Tema</string>
+    <string name="solution_spanish">Solución</string>
+    <string name="status_spanish">Estado</string>
+    <string name="search_spanish">Búsqueda</string>
+    <string name="access_type_spanish">Tipo de Acceso</string>
+    <string name="name_spanish">Nombre</string>
+    <string name="firstname_spanish">Nombre</string>
+    <string name="lastname_spanish">Apellido</string>
+    <string name="address_spanish">Dirección</string>
+    <string name="city_spanish">Ciudad</string>
+    <string name="state_spanish">Estado</string>
+    <string name="zip_spanish">Código postal</string>
+    <string name="phone1_spanish">Teléfono 1</string>
+    <string name="phone2_spanish">Teléfono 2</string>
+    <string name="new_user_spanish">Nuevo Usuario</string>
+    <string name="processing_search_spanish">Búsqueda Procesamiento</string>
+    <string name="matches_found_spanish">Partidos Encontrado</string>
+    <string name="nothing_found_spanish">No Se Ha Encontrado</string>
+    <string name="update_spanish">Actualización</string>
+    <string name="delete_spanish">Borrar</string>
+    <string name="confirm_deletion_spanish">Confirmar la eliminación</string>
+    <string name="proceed_with_deletion_spanish">Proceda con la eliminación?</string>
+    <string name="yes_spanish">Sí</string>
+    <string name="no_spanish">No</string>
+    <string name="close_spanish">Cerca</string>
+    <string name="administrator_spanish">Administrador</string>
+    <string name="transaction_failed_spanish">Transacción ha fallado</string>
+    <string name="transaction_success_spanish">Éxito Transacción</string>
+    <string name="solution_cannot_be_blank_spanish">La solución no puede estar en blanco!</string>
+    <string name="title_cannot_be_blank_spanish">El título no puede estar vacío!</string>
+    <string-array name="solution_statuses_spanish">
+		<item>Aprobado</item>
+		<item>Rechazado</item>
+	</string-array>
+    <string-array name="solution_statuses_with_blank_spanish">
+		<item> </item>
+		<item>Aprobado</item>
+		<item>Rechazado</item>
+	</string-array>
+	<string-array name="access_types_spanish">
+        <item>Deshabilitado</item>
+        <item>Administrador</item>
+		<item>Empleado</item>
+	</string-array>
+	<string-array name="access_types_with_blank_spanish">
+		<item> </item>
+        <item>Deshabilitado</item>
+        <item>Administrador</item>
+		<item>Empleado</item>
+	</string-array>
+</resources>
