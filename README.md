@@ -1,6 +1,6 @@
 ## Knowledge Base - Android App
 
-Development Overview -> *Native Android App – Java, XML, SQLite*
+**Development Overview** -> *Native Android App – Java, XML, SQLite*
 
 Allows users to create companies in which the administrators enroll problems/solutions and authorized employees can search, view and possible edit them. 
 
@@ -8,7 +8,8 @@ The data is downloaded from a REST web service into the app’s local SQLite Dat
 
 This app offers language selection of four languages: English, Spanish, French or Portuguese. Once the user chooses one, it gets stored in an SQLite local database, so the user does not have to select it again, unless another language selection is needed.
 
-https://play.google.com/store/apps/details?id=com.prpinfo.bancodesolucoes&hl=en
+[Play Store -> Knowledge Base](https://play.google.com/store/apps/details?id=com.prpinfo.bancodesolucoes&hl=en)
+
 
 ![Screenshot_20210805-125123](https://user-images.githubusercontent.com/28379115/183942083-72e06a54-0f5a-4a52-a839-9397ba310dd3.png)
 
