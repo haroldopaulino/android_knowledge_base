@@ -1,4 +1,6 @@
-## Knowledge Base - Android App *(Native Android App – Java, XML, SQLite)*
+## Knowledge Base - Android App
+
+Development - *Native Android App – Java, XML, SQLite*
 
 Allows users to create companies in which the administrators enroll problems/solutions and authorized employees can search, view and possible edit them. 
 
