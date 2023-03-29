@@ -6,7 +6,7 @@ Allows users to create companies in which the administrators enroll problems/sol
 
 I used native Java and XML layouts to develop this project, and I’ve created all image assets using Corel Draw.
 
-The app consumes a REST API, which was written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
+The app consumes a REST API and Micro Services, which were written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
 
 This app offers language selection: English, Spanish, French or Portuguese. Once the user chooses one, the preference gets stored in an SQLite local database, so the user does not have to select it again, unless another language is selected.
 
