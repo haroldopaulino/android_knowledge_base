@@ -1,12 +1,14 @@
 ## Knowledge Base - Android App
 
-**Development Overview** -> *Native Android App – Java, XML, SQLite*
+**Development Overview** -> *Native Android App – Java, XML, SQLite, Apache, MySQL, PHP*
 
-Allows users to create companies in which the administrators enroll problems/solutions and authorized employees can search, view and possible edit them. 
+Allows users to create companies in which the administrators enroll problems/solutions and authorized employees can search, view and possibly edit them.
 
-The data is downloaded from a REST web service into the app’s local SQLite Database.
+I used native Java and XML layouts to develop this project, and I’ve created all image assets using Corel Draw.
 
-This app offers language selection of four languages: English, Spanish, French or Portuguese. Once the user chooses one, it gets stored in an SQLite local database, so the user does not have to select it again, unless another language selection is needed.
+The app consumes a REST API, which was written in PHP/MySQL under an Apache HTTP server, and the data is stored the app’s local SQLite Database.
+
+This app offers language selection: English, Spanish, French or Portuguese. Once the user chooses one, the preference gets stored in an SQLite local database, so the user does not have to select it again, unless another language is selected.
 
 [Play Store -> Knowledge Base](https://play.google.com/store/apps/details?id=com.prpinfo.bancodesolucoes&hl=en)
 
